@@ -50,4 +50,5 @@ KingCounty_HouseSales_EDA/
 │── images/ # Plots and visualizations
 │── README.md # Project documentation
 
-
+⚠️ Note on Dataset
+You have to download the dataset locally on your system.
