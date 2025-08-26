@@ -51,10 +51,3 @@ KingCounty_HouseSales_EDA/
 │── README.md # Project documentation
 
 
-## ⚠️ Dataset Access
-The dataset is **not uploaded in this repository** to respect licensing and size restrictions.  
-You can download it from Kaggle here:  
-👉 [House Sales in King County, USA (Kaggle)](https://www.kaggle.com/harlfoxem/housesalesprediction)  
-
-After downloading, place the file (`kc_house_data.csv`) inside the `/data` folder before running the notebook.
-
